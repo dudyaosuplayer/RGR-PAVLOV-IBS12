@@ -1,0 +1,10 @@
+D:\Games\CodeBlocks\StorageApp\StorageApp\Debug\StorageApp.vcxprojAssemblyReference.cache
+D:\Games\CodeBlocks\StorageApp\StorageApp\Debug\StorageApp.MyForm.resources
+D:\Games\CodeBlocks\StorageApp\StorageApp\Debug\StorageApp.vcxproj.GenerateResource.cache
+D:\Games\CodeBlocks\StorageApp\StorageApp\Debug\StorageApp.exe
+D:\Games\CodeBlocks\StorageApp\StorageApp\Debug\StorageApp.pdb
+D:\Games\CodeBlocks\StorageApp\WarehouseApp\Debug\StorageApp.vcxprojAssemblyReference.cache
+D:\Games\CodeBlocks\StorageApp\WarehouseApp\Debug\WarehouseApp.MyForm.resources
+D:\Games\CodeBlocks\StorageApp\WarehouseApp\Debug\StorageApp.vcxproj.GenerateResource.cache
+D:\Games\CodeBlocks\StorageApp\WarehouseApp\Debug\WarehouseApp.exe
+D:\Games\CodeBlocks\StorageApp\WarehouseApp\Debug\WarehouseApp.pdb
